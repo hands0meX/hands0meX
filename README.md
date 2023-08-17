@@ -1,6 +1,9 @@
-<h2><img src="./images/pikachu.gif" alt="Hi" width="42" />欢迎来访我的Github</h2>
+<h2 style="display: flex;align-items: center">
+    <img src="./images/pikaqiu.gif" alt="Hi" width="32" />
+    <div style="margin-left: 10px">欢迎来访我的Github</div>
+</h2>
 
-你好,我是`hands0meX`，是一名前端开发
+你好,我是`hands0meX`，一名前端开发
 
 #### 语言 & 工具
 
@@ -17,3 +20,9 @@
 [![github](https://img.shields.io/badge/-hands0meX-%23323031?style=flat&logo=github)](https://github.com/hands0meX)
 <a href="mailto:hands0meX9707@gmail.com"><img src="https://img.shields.io/badge/-hands0meX9707@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a>
 ![profile views](https://komarev.com/ghpvc/?username=hands0meX&style=flat)
+
+<!-- <div>
+    <img src="./images/jienigui.gif" alt="Hi" width="32" />
+    <img src="./images/miaowazhongzi.gif" alt="Hi" width="32" />
+    <img src="./images/xiaohuolong.gif" alt="Hi" width="32" />
+</div> -->
