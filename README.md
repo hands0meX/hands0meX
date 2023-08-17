@@ -1,4 +1,4 @@
-<h2><img src="/images/pikachu.gif" alt="Hi" width="42" />欢迎来访我的Github</h2>
+<h2><img src="./images/pikachu.gif" alt="Hi" width="42" />欢迎来访我的Github</h2>
 
 你好,我是`hands0meX`，是一名前端开发
 
