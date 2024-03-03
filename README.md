@@ -13,7 +13,8 @@
 ![小程序开发工具](https://img.shields.io/badge/-小程序开发工具-07C160?style=flat&logo=WeChat&logoColor=ffffff)
 
 <!-- <img alt="hands0meX stats" width="360" src="https://github-readme-stats.vercel.app/api?username=hands0meX&theme=dark"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=hands0meX&show_icons=true&locale=en&theme=radical" alt="anarbb" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=hands0meX&theme=radical" alt="anarbb" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hands0meX&show_icons=true&locale=en&theme=radical" alt="anarbb" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hands0meX&theme=radical" alt="anarbb" />
 
 [![github](https://img.shields.io/badge/-hands0meX-%23323031?style=flat&logo=github)](https://github.com/hands0meX)
 <a href="mailto:hands0meX9707@gmail.com"><img src="https://img.shields.io/badge/-hands0meX9707@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a>
